@@ -1,0 +1,221 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA1-Digest: ounttNfI/jVLQyVa78D82DHn0uo=
+
+Name: classes.dex
+SHA1-Digest: d1MrG9Ch8l/8yZ8Ahx01TD3yu6g=
+
+Name: res/drawable-hdpi/notification_bg_low_normal.9.png
+SHA1-Digest: D2PhKM51tYZo8a79riJ3XiUD2nc=
+
+Name: res/drawable-hdpi/notification_bg_low_pressed.9.png
+SHA1-Digest: NP77wvGcwseigxPz8Z8jideVqXk=
+
+Name: res/drawable-hdpi/notification_bg_normal.9.png
+SHA1-Digest: ralFi/xjLzZzimSmlAGCFAUgfbE=
+
+Name: res/drawable-hdpi/notification_bg_normal_pressed.9.png
+SHA1-Digest: 4j+L3Jzr2U70TU9dUenWhtYe/lU=
+
+Name: res/drawable-hdpi/notify_panel_notification_icon_bg.png
+SHA1-Digest: inKyhhyZgO65645KR/OH06l6dAc=
+
+Name: res/drawable-mdpi/notification_bg_low_normal.9.png
+SHA1-Digest: sUXBSDmIwrVhXMAYtsmpMAdZsVM=
+
+Name: res/drawable-mdpi/notification_bg_low_pressed.9.png
+SHA1-Digest: 58BeVrWmam0XTYtOcBJSh3YmiJQ=
+
+Name: res/drawable-mdpi/notification_bg_normal.9.png
+SHA1-Digest: Wl4jBkhtPS9E+JkWaS0GOyoMbuw=
+
+Name: res/drawable-mdpi/notification_bg_normal_pressed.9.png
+SHA1-Digest: qf8Bo3OrZFOkS8OQT2FTwy3VSA8=
+
+Name: res/drawable-mdpi/notify_panel_notification_icon_bg.png
+SHA1-Digest: cz2cTpSbxUR34pkCMo3M7a+mSXk=
+
+Name: res/drawable-xhdpi/notification_bg_low_normal.9.png
+SHA1-Digest: dnObiFrk1DvtR5VGgJWQwE6oNeo=
+
+Name: res/drawable-xhdpi/notification_bg_low_pressed.9.png
+SHA1-Digest: 9MYmMKRnfwttaoRGc1WDg0jzgyY=
+
+Name: res/drawable-xhdpi/notification_bg_normal.9.png
+SHA1-Digest: URz3Lz/tIjMAtXfNHimWcDQLTtQ=
+
+Name: res/drawable-xhdpi/notification_bg_normal_pressed.9.png
+SHA1-Digest: iJFesSsAAmE1zFB9XbiCZW1cKKU=
+
+Name: res/drawable-xhdpi/notify_panel_notification_icon_bg.png
+SHA1-Digest: cuJ+cwlm5QO6frAFAjbS9w6zhJ4=
+
+Name: res/drawable-xxxhdpi/freespace.png
+SHA1-Digest: 4iYZWlNNk7Nwg+Vdx+ogeetOfvg=
+
+Name: res/drawable/background_edit_text.xml
+SHA1-Digest: ArNcf6tuetvFrPckG6ktSHDkEyM=
+
+Name: res/drawable/bakaro.png
+SHA1-Digest: 62X5AA27zDRWkrbIND0gKAi4N10=
+
+Name: res/drawable/cpas.png
+SHA1-Digest: v17CZ84+GCUtnQe1uUsI7ptmODo=
+
+Name: res/drawable/del.png
+SHA1-Digest: AM6ybOY2q4CQ3NK4ygyhtduCpAM=
+
+Name: res/drawable/fdarperformsb73.png
+SHA1-Digest: 5VV9xbpfbQxMgCMYXZrMGz8GOuA=
+
+Name: res/drawable/glob.png
+SHA1-Digest: u2NSRkI8Qofva7EJOc9Tutgevxo=
+
+Name: res/drawable/gradient_overlay.xml
+SHA1-Digest: 4NEGhhImXhI3x30A5WZz3PH0a/o=
+
+Name: res/drawable/greenprogress.xml
+SHA1-Digest: AH44/AkaZSEwribMf/fLWHYc/gs=
+
+Name: res/drawable/ic_baseline_keyboard_arrow_down_24.xml
+SHA1-Digest: JrsvfBNJyCLTfuekLcZmwIlMFw0=
+
+Name: res/drawable/ic_baseline_remove_red_eye_24.xml
+SHA1-Digest: R6G4XxTHKDNbxNLNi/mw6RCe+fs=
+
+Name: res/drawable/keyback.png
+SHA1-Digest: ZmgwmEPjV0u6SeVXdmAEyNExPJg=
+
+Name: res/drawable/keybakno.png
+SHA1-Digest: 2UM+wyYxXfdHnf0pX4BrwRnPdRI=
+
+Name: res/drawable/logo.png
+SHA1-Digest: QtUWIxisr8pPgTRyTVsuJiKA+ko=
+
+Name: res/drawable/newbtn.png
+SHA1-Digest: Zm5lLuA2OxZ3lwhqWWFlGrMeieY=
+
+Name: res/drawable/nont.png
+SHA1-Digest: h6fW+3XzNLEGke14URgR2uQCBrg=
+
+Name: res/drawable/notification_action_background.xml
+SHA1-Digest: oHt7z+TZkzhR9kR8ynUy2Qat3xs=
+
+Name: res/drawable/notification_bg.xml
+SHA1-Digest: lLjxeAVsyzPWc5Fz7nc1xE1jmr4=
+
+Name: res/drawable/notification_bg_low.xml
+SHA1-Digest: cP1wbTeoffl1LVFWyX+yJWWVbVo=
+
+Name: res/drawable/notification_icon_background.xml
+SHA1-Digest: gvh+kqSAcUO8bypLDt10JLl/Ttw=
+
+Name: res/drawable/notification_tile_bg.xml
+SHA1-Digest: 9HcgAYM6H6+klq9svZIGU8dXH/0=
+
+Name: res/drawable/remove.png
+SHA1-Digest: sJB09CkHK1pqDFdTvL3otApwB80=
+
+Name: res/drawable/rpand.png
+SHA1-Digest: BVm+nWQwawOkNQr425fHFb0AVL8=
+
+Name: res/drawable/shape.xml
+SHA1-Digest: cqrllu0/wbeiNEltaLG+Z1iX6cg=
+
+Name: res/drawable/skinicon.png
+SHA1-Digest: 5VV9xbpfbQxMgCMYXZrMGz8GOuA=
+
+Name: res/drawable/subjectsy74.png
+SHA1-Digest: 5VV9xbpfbQxMgCMYXZrMGz8GOuA=
+
+Name: res/drawable/toggle.png
+SHA1-Digest: HpRuEWew0/oVryK0AuIxr28pw7Y=
+
+Name: res/drawable/treelins.png
+SHA1-Digest: QoNK+8cENyEQFao96KULK4gT0r4=
+
+Name: res/layout/activity_req_access.xml
+SHA1-Digest: gDIeUOPa1wOYLeM/NeOBStTCeNE=
+
+Name: res/layout/guardsv76.xml
+SHA1-Digest: y8BxNWqa/04K/ou8au/3IVROV2E=
+
+Name: res/layout/keyboard.xml
+SHA1-Digest: aqsZk45tm3uIYRwEV0qA/53dE/I=
+
+Name: res/layout/loading.xml
+SHA1-Digest: HS/BrwtZz+HyarsCnyOuxPloj8A=
+
+Name: res/layout/nointernet.xml
+SHA1-Digest: oqbxM3oygYNGBG+hw84v5DDFH+A=
+
+Name: res/layout/notification_action.xml
+SHA1-Digest: wwxVO1ICrcNVWa5l0QkywpskPKE=
+
+Name: res/layout/notification_action_tombstone.xml
+SHA1-Digest: tJxVZcTRuU36xYCh7qLw1pIURow=
+
+Name: res/layout/notification_template_custom_big.xml
+SHA1-Digest: hAPIaGw9UMrr9eFDhWD2xpvsyiU=
+
+Name: res/layout/notification_template_icon_group.xml
+SHA1-Digest: eruZj6wcfG+vE+Tb2P0QXhc5O00=
+
+Name: res/layout/notification_template_part_chronometer.xml
+SHA1-Digest: heoFX/b7MvVvKXV3X7kJOxm5+QQ=
+
+Name: res/layout/notification_template_part_time.xml
+SHA1-Digest: p2qndNX6EutPNIy0rIdZaWyWpXM=
+
+Name: res/layout/preview.xml
+SHA1-Digest: HTP4WzktPoIylfv5dHeVwQhjTi8=
+
+Name: res/layout/waterw75.xml
+SHA1-Digest: MRzZ9nqXry6jhMZs5njBG0MtxHA=
+
+Name: res/layout/wib.xml
+SHA1-Digest: D7zQUmcDMDuheIm+nBV2lqyhkfk=
+
+Name: res/raw/depositsi72
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: res/xml-v22/access_prop_dis.xml
+SHA1-Digest: ghXYXpOCm96JIfeUwwyEJnvV2mg=
+
+Name: res/xml/access_prop_dis.xml
+SHA1-Digest: Cw2N5mxz2YiUz+xCoHeVdisGI4Y=
+
+Name: res/xml/adm_rit.xml
+SHA1-Digest: zT9fGJpqY2x2+3t13kHgBKmuVj4=
+
+Name: res/xml/method.xml
+SHA1-Digest: PW4OVwi83A9gHnSBsSMlk2jYcF8=
+
+Name: res/xml/netsecconfig.xml
+SHA1-Digest: /BX0ST7QsBjrKXxtG1Wk4T3SEws=
+
+Name: res/xml/prov_path.xml
+SHA1-Digest: mOjV4o4gyciBhVR89tGj/z3StOU=
+
+Name: res/xml/pup.xml
+SHA1-Digest: HirsF89DggK1ey047iJDKVm2/S0=
+
+Name: res/xml/qwerty_a.xml
+SHA1-Digest: PPa1IPeu78aotzJDKcdYcQezw18=
+
+Name: res/xml/qwerty_c.xml
+SHA1-Digest: al1iezDT+lyrWzrOxIr+TlFzG9o=
+
+Name: res/xml/qwerty_cs.xml
+SHA1-Digest: er2d/TRXufZY/Ho1xVyK8q2l7Ow=
+
+Name: res/xml/qwerty_e.xml
+SHA1-Digest: 8jRWOyHyJqNKbO8uH4KxEnQdxEg=
+
+Name: res/xml/symbols.xml
+SHA1-Digest: c8G8zspaS4fxZs6oMnh2IXddEC8=
+
+Name: resources.arsc
+SHA1-Digest: 5lzbrp/J1PGMkNsJETr9OHCl9vk=
+
